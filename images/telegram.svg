@@ -1,0 +1,61 @@
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="telegram_logo_icon_168692 1" clip-path="url(#clip0_213_72)">
+<g id="Group">
+<g id="Clip path group">
+<mask id="mask0_213_72" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="26" height="26">
+<g id="A">
+<path id="Vector" d="M0 12.7908C0 19.855 5.72656 25.5815 12.7907 25.5815C19.8549 25.5815 25.5814 19.855 25.5814 12.7908C25.5814 5.72665 19.8549 9.34601e-05 12.7907 9.34601e-05C5.72656 9.34601e-05 0 5.72665 0 12.7908Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_213_72)">
+<path id="Vector_2" d="M0 12.7908C0 19.855 5.72656 25.5815 12.7907 25.5815C19.8549 25.5815 25.5814 19.855 25.5814 12.7908C25.5814 5.72665 19.8549 9.34601e-05 12.7907 9.34601e-05C5.72656 9.34601e-05 0 5.72665 0 12.7908Z" fill="url(#paint0_linear_213_72)"/>
+</g>
+</g>
+<g id="Clip path group_2">
+<mask id="mask1_213_72" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-2" y="-2" width="30" height="30">
+<g id="C">
+<path id="Vector_3" d="M-1.72382 -1.72361H27.2165V27.0989H-1.72382V-1.72361Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_213_72)">
+<g id="Group_2">
+<path id="Vector_4" d="M8.65813 13.7257L10.1757 17.926C10.1757 17.926 10.3654 18.3188 10.5686 18.3188C10.7718 18.3188 13.7934 15.1754 13.7934 15.1754L17.1537 8.68516L8.71232 12.6416L8.65813 13.7257Z" fill="#C8DAEA"/>
+</g>
+</g>
+</g>
+<g id="Clip path group_3">
+<mask id="mask2_213_72" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-2" y="-2" width="30" height="30">
+<g id="D">
+<path id="Vector_5" d="M-1.72382 -1.72361H27.2165V27.0989H-1.72382V-1.72361Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_213_72)">
+<g id="Group_3">
+<path id="Vector_6" d="M10.6702 14.8028L10.3788 17.8988C10.3788 17.8988 10.2569 18.8472 11.2053 17.8988C12.1538 16.9503 13.0616 16.2186 13.0616 16.2186" fill="#A9C6D8"/>
+</g>
+</g>
+</g>
+<g id="Clip path group_4">
+<mask id="mask3_213_72" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-2" y="-2" width="30" height="30">
+<g id="E">
+<path id="Vector_7" d="M-1.72382 -1.72361H27.2165V27.0989H-1.72382V-1.72361Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask3_213_72)">
+<g id="Group_4">
+<path id="Vector_8" d="M8.68544 13.8757L5.56418 12.8587C5.56418 12.8587 5.19162 12.7075 5.31129 12.3642C5.33601 12.2934 5.38576 12.2332 5.5348 12.1293C6.22659 11.6472 18.3368 7.29437 18.3368 7.29437C18.3368 7.29437 18.6788 7.17926 18.8809 7.25578C18.9733 7.2908 19.0323 7.33036 19.0819 7.47474C19.1 7.52731 19.1104 7.63907 19.109 7.75029C19.1079 7.8305 19.0982 7.90475 19.091 8.02128C19.0173 9.21146 16.8104 18.0932 16.8104 18.0932C16.8104 18.0932 16.6783 18.613 16.2052 18.6306C16.0326 18.6371 15.8232 18.6021 15.5728 18.3867C14.6444 17.5881 11.4351 15.4313 10.7261 14.9571C10.686 14.9304 10.6747 14.8956 10.6679 14.8617C10.6579 14.8119 10.7113 14.7496 10.7113 14.7496C10.7113 14.7496 16.2993 9.78238 16.448 9.26122C16.4595 9.22079 16.4162 9.20084 16.3576 9.21829C15.9865 9.35487 9.5525 13.4176 8.84251 13.8663C8.80099 13.8925 8.68457 13.8756 8.68457 13.8756" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_213_72" x1="12.7907" y1="25.5814" x2="12.7907" y2="-1.49359e-05" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1D93D2"/>
+<stop offset="1" stop-color="#38B0E3"/>
+</linearGradient>
+<clipPath id="clip0_213_72">
+<rect width="25.5814" height="25.5814" fill="white"/>
+</clipPath>
+</defs>
+</svg>
